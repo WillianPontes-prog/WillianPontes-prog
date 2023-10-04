@@ -1,7 +1,5 @@
 ## Olá, sou Willian Pontes 😃
 
-![imagem_2023-10-04_162741855-removebg-preview](https://github.com/WillianPontes-prog/WillianPontes-prog/assets/146091536/f96ac9ef-7de2-4e77-adc5-c1ee3759893d)
-
 
 **Jogo que fiz quando durante a pandemia**
 
