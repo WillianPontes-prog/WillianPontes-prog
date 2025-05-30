@@ -9,14 +9,6 @@ Sou estudante de Engenharia da Computação, com foco em desenvolvimento de soft
 - ⚙️ Conhecimento em estruturas de dados, algoritmos e lógica de programação
 - 📚 Interesse em desenvolvimento mobile e web
 
-## 💼 Projetos em Destaque
-
-- 🔢 [JackPot](https://github.com/WillianPontes-prog/JackPot): Implementação de um jogo de caça-níquel em C, utilizando conceitos de lógica e estruturas de repetição.
-- 🍬 [RodaDeDoces](https://github.com/WillianPontes-prog/RodaDeDoces): Projeto que simula uma roleta de doces, aplicando estruturas de dados circulares.
-- 🧮 [EliminaParStack](https://github.com/WillianPontes-prog/EliminaParStack): Manipulação de pilhas para eliminação de números pares, reforçando o entendimento de estruturas LIFO.
-- 🚗 [Contador de Veículos](https://github.com/WillianPontes-prog/Contador-de-veiculos): Sistema para contagem de veículos, integrando sensores e lógica de programação.
-- 🎓 [Sistema Acadêmico](https://github.com/WillianPontes-prog/SistemaAcademico): Desenvolvimento de um sistema de gerenciamento acadêmico em C++, com foco em orientação a objetos.
-- 👨‍💼 [Digital-Funcionario](https://github.com/WillianPontes-prog/Digital-Funcionario): Aplicativo mobile para gestão de funcionários, explorando desenvolvimento multiplataforma.
 
 ## 🛠️ Tecnologias & Ferramentas
 
