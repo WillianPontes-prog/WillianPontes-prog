@@ -4,7 +4,7 @@ Sou estudante de Engenharia da Computação, com foco em desenvolvimento de soft
 
 ## 🧠 Sobre Mim
 
-- 🎓 Graduando em Engenharia da Computação
+- 🎓 Graduando em Engenharia da Computação na UTFPR
 - 💻 Experiência em desenvolvimento de aplicações desktop e sistemas embarcados
 - ⚙️ Conhecimento em estruturas de dados, algoritmos e lógica de programação
 - 📚 Interesse em desenvolvimento mobile e web
