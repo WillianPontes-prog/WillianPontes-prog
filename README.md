@@ -19,10 +19,4 @@ Sou estudante de Engenharia da Computação, com foco em desenvolvimento de soft
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub de Willian Pontes](https://github-readme-stats.vercel.app/api?username=WillianPontes-prog&show_icons=true&theme=default)
-
----
-
-📫 Entre em contato: [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Email](mailto:seuemail@exemplo.com)
+📫 Entre em contato: [Email](qtgwillianp2005@gmail.com)
